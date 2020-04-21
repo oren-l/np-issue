@@ -1,0 +1,20 @@
+{
+  "name": "np-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "release": "np",
+    "postrelease": "echo Howdy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "np": "^6.2.1"
+  },
+  "devDependencies": {
+    "terminalizer": "^0.7.2"
+  }
+}
